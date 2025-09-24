@@ -1,1 +1,1 @@
-# NT521_LAB1_SampleApp
+# NT521_LAB1_SampleApp - GROUP 2
